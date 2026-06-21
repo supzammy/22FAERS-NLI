@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/db804df1-4496-41f2-8126-0bbab1711f3f
 
 # 22FAERS‑NLI — Automated Literature Validation for Pharmacovigilance in Ultra‑Rare Neurological Diseases
 
-[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/ZAM/22FAERS-NLI)
+[![Hugging Face Space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-blue)](https://huggingface.co/spaces/supzammy/22FAERSNLI)
 [![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20359434.svg)](https://doi.org/10.5281/zenodo.20359434)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -24,7 +24,7 @@ It is specifically designed for **ultra‑rare neurological diseases**, where tr
 4. **Verdict:** *Present* (literature evidence supports the drug‑AE association) or *Absent*.
 
 A live demo is available on 🤗 Hugging Face Spaces:  
- **[22FAERS‑NLI Space](https://huggingface.co/spaces/ZAM/22FAERS-NLI)**
+ **[22FAERS‑NLI Space](https://huggingface.co/spaces/supzammy/22FAERSNLI)**
 
 ---
 
