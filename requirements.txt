@@ -1,0 +1,11 @@
+# ============================================================
+# requirements.txt  —  FAERS Pharmacovigilance Pipeline (Original Name, not gonna change it)
+# ============================================================
+torch>=2.2
+transformers>=4.40
+biopython>=1.83
+gradio
+plotly>=5.20
+pandas
+numpy
+tqdm
